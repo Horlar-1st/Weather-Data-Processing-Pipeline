@@ -19,7 +19,7 @@ This repository contains a simple data engineering pipeline developed as part of
 ---
 
 ## 📂 Project Structure
-
+```
 weather-data-pipeline/
 │
 ├── data/
@@ -33,4 +33,4 @@ weather-data-pipeline/
 ├── weather_pipeline.py # Main Python script
 ├── requirements.txt # Python dependencies
 └── README.md # This file
-
+```
