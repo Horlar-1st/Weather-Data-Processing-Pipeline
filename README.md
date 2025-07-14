@@ -1,4 +1,4 @@
-# 🌦️ Weather Data Processing Pipeline
+# 🌦️ Weather Data Cleaning and Processing
 
 ## 📌 Overview
 
@@ -12,7 +12,7 @@ This repository contains a simple data engineering pipeline developed as part of
 - **Libraries Used**:  
   - `pandas` – for data ingestion, cleaning, transformation  
   - `numpy` – for numerical operations  
-  - `matplotlib` / `seaborn` – (optional) for visualization  
+  - `matplotlib` / `seaborn` – for visualization  
 - **Input Format**: CSV  
 - **Output Formats**: CSV, TXT, PNG (optional)
 
