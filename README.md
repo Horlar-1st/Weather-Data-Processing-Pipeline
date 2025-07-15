@@ -14,7 +14,7 @@ This repository contains a simple data engineering pipeline developed as part of
   - `numpy` – for numerical operations  
   - `matplotlib` / `seaborn` – for visualization  
 - **Input Format**: CSV  
-- **Output Formats**: CSV, TXT, PNG (optional)
+- **Output Formats**: CSV
 
 ---
 
@@ -30,7 +30,8 @@ weather-data-pipeline/
 │ ├── temperature_report.txt # (Optional) Top 5 hottest cities
 │ └── avg_temp_bar_chart.png # (Optional) Bar chart of avg temperatures
 │
-├── weather_pipeline.py # Main Python script
+├── main.ipynb # Main Python notebook
+├── main_script.py # Main Python script
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 ```
