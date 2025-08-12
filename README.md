@@ -26,12 +26,12 @@ weather-data-pipeline/
 │ └── weather_data.csv # Original input file
 │
 ├── outputs/
-│ ├── transformed_weather_data.csv # Cleaned & transformed weather data
-│ ├── temperature_report.txt # (Optional) Top 5 hottest cities
-│ └── avg_temp_bar_chart.png # (Optional) Bar chart of avg temperatures
+│ ├── transformed_weather_data.csv  # Cleaned & transformed weather data
+│ ├── top_5_hottest_cities.md       # (Optional) Top 5 hottest cities
+│ └── avg_temp_bar_chart.png        # (Optional) Bar chart of avg temperatures
 │
-├── main.ipynb # Main Python notebook
-├── main_script.py # Main Python script
-├── requirements.txt # Python dependencies
+├── main.ipynb                # Main Python notebook
+├── main_script.py            # Main Python script
+├── requirements.txt.         # Python dependencies
 └── README.md # This file
 ```
