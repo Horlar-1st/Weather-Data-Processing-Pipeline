@@ -32,6 +32,6 @@ weather-data-pipeline/
 │
 ├── main.ipynb                # Main Python notebook
 ├── main_script.py            # Main Python script
-├── requirements.txt.         # Python dependencies
-└── README.md # This file
+├── requirements.txt          # Python dependencies
+└── README.md                 # This file
 ```
