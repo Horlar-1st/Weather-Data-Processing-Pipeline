@@ -46,4 +46,6 @@ plt.ylabel("Average Tempearture")
 plt.savefig("outputs/avg_temp_bar_chart.png")
 plt.show()
 
+# Report for completion 
 print("Transformation complete. Output files are saved in the 'outputs' directory.")
+
