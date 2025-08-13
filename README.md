@@ -33,5 +33,6 @@ weather-data-pipeline/
 ├── main.ipynb                # Main Python notebook
 ├── main_script.py            # Main Python script
 ├── requirements.txt          # Python dependencies
+├── data-engineer-intern-take-home-assignment.pdf
 └── README.md                 # This file
 ```
