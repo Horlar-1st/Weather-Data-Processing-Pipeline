@@ -12,9 +12,9 @@ This repository contains a simple data engineering pipeline developed as part of
 - **Libraries Used**:  
   - `pandas` – for data ingestion, cleaning, transformation  
   - `numpy` – for numerical operations  
-  - `matplotlib` / `seaborn` – for visualization  
+  - `matplotlib` – for visualization  
 - **Input Format**: CSV  
-- **Output Formats**: CSV
+- **Output Formats**: CSV, png, rm
 
 ---
 
