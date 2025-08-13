@@ -30,9 +30,9 @@ weather-data-pipeline/
 │ ├── top_5_hottest_cities.md       # (Optional) Top 5 hottest cities
 │ └── avg_temp_bar_chart.png        # (Optional) Bar chart of avg temperatures
 │
-├── main.ipynb                # Main Python notebook
-├── main_script.py            # Main Python script
-├── requirements.txt          # Python dependencies
-├── data-engineer-intern-take-home-assignment.pdf
-└── README.md                 # This file
+├── main.ipynb                                          # Main Python notebook
+├── main_script.py                                      # Main Python script
+├── requirements.txt                                    # Python dependencies
+├── data-engineer-intern-take-home-assignment.pdf       # Questions
+└── README.md                                           # This file
 ```
