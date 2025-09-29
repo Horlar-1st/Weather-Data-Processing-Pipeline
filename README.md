@@ -13,8 +13,8 @@ This repository contains a simple data engineering pipeline developed as part of
   - `pandas` – for data ingestion, cleaning, transformation  
   - `numpy` – for numerical operations  
   - `matplotlib` – for visualization  
-- **Input Format**: CSV  
-- **Output Formats**: CSV, png, rm
+- **Input Format**: `CSV`  
+- **Output Formats**: `CSV`, `png`, `md`
 
 ---
 
